@@ -5,6 +5,11 @@
         </a>
 
         <div class=" navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="/demo">Demo <span class="sr-only">(current)</span></a>
+            </li>
+        </ul>
         </div>
     </div>
 </template>
