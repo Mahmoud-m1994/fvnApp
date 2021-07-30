@@ -1,0 +1,16 @@
+[
+  {
+    "name": "demo",
+    "path": "/demo",
+    "component": "/Users/mahmoudibrahim/Documents/nuxtjs/fvnApp/sommervennen/pages/demo.vue",
+    "chunkName": "pages/demo",
+    "_name": "_fa6bcc78"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mahmoudibrahim/Documents/nuxtjs/fvnApp/sommervennen/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_798368c1"
+  }
+]

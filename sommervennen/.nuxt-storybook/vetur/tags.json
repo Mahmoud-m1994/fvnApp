@@ -1,0 +1,11 @@
+{
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "InfoCard": {
+    "description": "Auto imported from components/InfoCard.vue"
+  },
+  "MyStorybook": {
+    "description": "Auto imported from components/MyStorybook.vue"
+  }
+}
