@@ -2,6 +2,7 @@
   <div>
     <Header/>
     <InfoCard/>
+    <Posts/>
   </div>
 </template>
 
