@@ -1,8 +1,13 @@
 <template>
     <div>
-      <h1>This is dynamic page</h1>
-      <h2>{{filteredPost.title}}</h2>
+        <Header/>
+        
+        <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="https://source.unsplash.com/random/200x200?sig=1" alt="Card image cap">
+        
+        </div>
     </div>
+
 </template>
 
 
@@ -21,8 +26,6 @@ export default {
         filteredPost
       }
     } else {
-      console.log(filteredPost[0]);
-      console.log("Mahi ", params.id);
       redirect('/')
     }
   }
