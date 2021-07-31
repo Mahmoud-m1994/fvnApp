@@ -3,6 +3,7 @@
     <Header/>
     <InfoCard/>
     <Posts/>
+    <Footer/>
   </div>
 </template>
 
